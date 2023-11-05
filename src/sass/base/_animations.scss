@@ -1,0 +1,25 @@
+@keyframes heartbeat {
+    from {
+        transform: scale(1);
+    }
+    80% {
+        transform: scale(1.6);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes tiktak {
+	from {
+		transform: scale(1);
+	}
+
+	80% {
+		transform: scale(1.6);
+	}
+
+	to {
+		transform: scale(1);
+	}
+}
